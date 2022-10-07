@@ -1,4 +1,4 @@
-package com.github.itsAkshayDubey.aopwithspringpart1.exception.handler;
+package com.github.itsAkshayDubey.aopwithspringpart1.advice;
 
 import java.util.Date;
 
